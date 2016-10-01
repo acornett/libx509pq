@@ -19,7 +19,7 @@
 #include "postgres.h"
 #include "funcapi.h"
 #include "fmgr.h"
-#include "access/htup_details.h"
+#include "access/htup.h"
 #include "utils/timestamp.h"
 #include "utils/builtins.h"
 
